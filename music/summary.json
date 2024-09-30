@@ -9,6 +9,104 @@
     "count": 439,
     "size": 3328599654,
     "sizeDesc": "3.1G"
-       }
-    }
+       }，
+    {
+        "id": 3684,
+        "name": "林俊杰",
+        "rank": {
+            "rank": 0,
+            "type": 0
+        },
+        "count": 403,
+        "size": 13731749085,
+        "sizeDesc": "12.79G"
+    },
+     {
+        "id": 5781,
+        "name": "薛之谦",
+        "rank": {
+            "rank": 0,
+            "type": 0
+        },
+        "count": 143,
+        "size": 6246405073,
+        "sizeDesc": "5.82G"
+    },
+    {
+        "id": 12138269,
+        "name": "毛不易",
+        "rank": {
+            "rank": 0,
+            "type": 0
+        },
+        "count": 85,
+        "size": 3781370946,
+        "sizeDesc": "3.52G"
+    },
+    {
+        "id": 6472,
+        "name": "张杰",
+        "rank": {
+            "rank": 5,
+            "type": 1
+        },
+        "count": 365,
+        "size": 12849137005,
+        "sizeDesc": "11.97G"
+    },
+    {
+        "id": 5538,
+        "name": "汪苏泷",
+        "rank": {
+            "rank": 7,
+            "type": 1
+        },
+        "count": 238,
+        "size": 6184649069,
+        "sizeDesc": "5.76G"
+    },
+    {
+        "id": 12193174,
+        "name": "Capper",
+        "rank": {
+            "rank": 8,
+            "type": 1
+        },
+        "count": 1,
+        "size": 53212323,
+        "sizeDesc": "50.75M"
+    },
+    {
+        "id": 6731,
+        "name": "赵雷",
+        "rank": {
+            "rank": 10,
+            "type": 1
+        },
+        "count": 64,
+        "size": 3322814462,
+        "sizeDesc": "3.09G"
+    },
+    {
+        "id": 4292,
+        "name": "李荣浩",
+        "rank": {
+            "rank": 11,
+            "type": 1
+        },
+        "count": 118,
+        "size": 5176321473,
+        "sizeDesc": "4.82G"
+    },
+    {
+        "id": 5771,
+        "name": "许嵩",
+        "size": 2935370239,
+        "sizeDesc": "2.73G",
+        "count": 120,
+        "rank": {
+            "rank": 12,
+            "type": 1
+        }
+     }
 ]
